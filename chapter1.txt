@@ -1,2 +1,3 @@
-this is chapter one.adding another line of txt
+this is chapter one.adding another line of txt.the change is done in master branch of git
 
+. again i am changing in master branch
