@@ -1,3 +1,1 @@
-this is chapter one.adding another line of txt.this change happened in branch1 branch
-.again i am changing content in branch1 branch
-
+this is first time change done in branch1 branch after first time change in master branch
