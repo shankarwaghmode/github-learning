@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 this is 1 changes in master branch.
+=======
+this is first time change done in branch1 branch after first time change in master branch
+>>>>>>> branch1
+this is second time change done in branch1 branch before second time change in master branch
